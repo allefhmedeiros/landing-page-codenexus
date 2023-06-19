@@ -244,4 +244,9 @@
     .close-menu:checked~.close-menu-label::after{
         content: 'Χ';
     }
+
+    body h2{
+        font-size: 4rem;
+        text-transform: uppercase;
+    }
 }
